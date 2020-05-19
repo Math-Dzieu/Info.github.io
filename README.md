@@ -1,7 +1,7 @@
 # Info.github.io
 ***********************************
 **Thanks for using my application**
-***********************************
+
 
 The instagram Recovery app permit to get all the pictures on your profile and download them if you want.
 
